@@ -108,7 +108,7 @@ const mockDB = {
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/sqlgame.git
+git clone https://github.com/Samir-Bzr/sqlgame.git
 cd sqlgame
 ```
 
